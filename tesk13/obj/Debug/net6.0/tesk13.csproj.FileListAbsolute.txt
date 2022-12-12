@@ -1,0 +1,15 @@
+C:\Users\mi\Desktop\gb\task2\tesk13\bin\Debug\net6.0\tesk13.exe
+C:\Users\mi\Desktop\gb\task2\tesk13\bin\Debug\net6.0\tesk13.deps.json
+C:\Users\mi\Desktop\gb\task2\tesk13\bin\Debug\net6.0\tesk13.runtimeconfig.json
+C:\Users\mi\Desktop\gb\task2\tesk13\bin\Debug\net6.0\tesk13.dll
+C:\Users\mi\Desktop\gb\task2\tesk13\bin\Debug\net6.0\tesk13.pdb
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.AssemblyInfoInputs.cache
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.AssemblyInfo.cs
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.dll
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\refint\tesk13.dll
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.pdb
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\tesk13.genruntimeconfig.cache
+C:\Users\mi\Desktop\gb\task2\tesk13\obj\Debug\net6.0\ref\tesk13.dll
